@@ -17629,6 +17629,7 @@ in
   };
 
   profont = callPackage ../data/fonts/profont { };
+  profont-powerline = callPackage ../data/fonts/profont-powerline { };
 
   proggyfonts = callPackage ../data/fonts/proggyfonts { };
 
